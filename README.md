@@ -76,7 +76,7 @@ Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience
 
 | Period | Organization | Role | Location |
 |--------|--------------|------|----------|
-| Mar 2022 - Jul 2024 | ![Walmart](https://img.shields.io/badge/Walmart-0071CE?style=flat-square&logo=walmart&logoColor=white) | Software Engineer III | Bangalore, India |
+| Mar 2022 - Jul 2024 | **Walmart Global Tech India** | Software Engineer III | Bangalore, India |
 | Aug 2019 - Mar 2022 | **Nineleaps** | Software Developer I | Bangalore, India |
 | Jan 2019 - Jul 2019 | **Nineleaps** | Intern | Bangalore, India |
 
@@ -103,7 +103,7 @@ Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience
 
 ## ⭐ Featured Projects
 
-### 🏎️ [F1 AI — AI-Powered Race Engineer Assistant](https://github.com/amurark3)
+### 🏎️ [F1 AI — AI-Powered Race Engineer Assistant](https://f1-ai-delta.vercel.app/)
 
 > An intelligent Formula 1 assistant that lets you query race data through natural language
 
@@ -118,7 +118,7 @@ Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience
 
 ---
 
-### 🦇 [Gotham Watch — Crime Analysis Platform](https://github.com/amurark3)
+### 🦇 [Gotham Watch — Crime Analysis Platform](https://github.com/amurark3/gotham-watch)
 
 > An interactive crime analysis platform with semantic web technologies and dynamic visualizations
 
