@@ -67,7 +67,7 @@ Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience
 
 | Period | School | Degree |
 |--------|--------|--------|
-| Aug 2024 - May 2026 | 🏫 Arizona State University | MS, Software Engineering (GPA: 3.59) |
+| Aug 2024 - May 2026 | 🏫 Arizona State University | MS, Software Engineering |
 | Aug 2015 - May 2019 | 🏫 Manipal University Jaipur | BTech, Computer Science & Engineering |
 
 ---
@@ -76,7 +76,7 @@ Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience
 
 | Period | Organization | Role | Location |
 |--------|--------------|------|----------|
-| Mar 2022 - Jul 2024 | ![Walmart](https://img.shields.io/badge/Walmart-0071CE?style=flat-square&logo=walmart&logoColor=white) | Software Developer III | Bangalore, India |
+| Mar 2022 - Jul 2024 | ![Walmart](https://img.shields.io/badge/Walmart-0071CE?style=flat-square&logo=walmart&logoColor=white) | Software Engineer III | Bangalore, India |
 | Aug 2019 - Mar 2022 | **Nineleaps** | Software Developer I | Bangalore, India |
 | Jan 2019 - Jul 2019 | **Nineleaps** | Intern | Bangalore, India |
 
