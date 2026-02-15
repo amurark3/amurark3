@@ -4,6 +4,16 @@
 
 ### 💻 Software Developer | Full-Stack Enthusiast | AI Explorer
 
+## About Me
+
+Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience building scalable web platforms, real-time systems, and data-driven tools. Currently pursuing my **MS in Software Engineering at Arizona State University**, and diving deep into **AI-powered applications** — MCP servers, RAG pipelines, and agentic workflows.
+
+- 🔭 Currently working on **AI-powered developer tools**
+- 🌱 Exploring **Model Context Protocol (MCP)**, **Agentic AI**, and **RAG**
+- 🏢 Previously shipped production features at **Walmart Global Tech** and **Nineleaps**
+- 📍 Based in **Tempe, AZ**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityamurarka14)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amurark3@asu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amurark3)
