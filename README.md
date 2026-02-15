@@ -12,7 +12,7 @@
 
 </div>
 
-## About Me
+## 🧑‍💻 About Me
 
 Welcome to my GitHub! I'm a full-stack developer with **5+ years** of experience building scalable web platforms, real-time systems, and data-driven tools. Currently pursuing my **MS in Software Engineering at Arizona State University**, and diving deep into **AI-powered applications** — MCP servers, RAG pipelines, and agentic workflows.
 
